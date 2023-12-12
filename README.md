@@ -4,7 +4,7 @@
 - [Fitness Calculator Sitesi](http://dostudio.com.tr/)
   
 <h1 align="center">Hi 👋, I'm Recep Bekir Gürbüz</h1>
-<h3 align="center">A back-end developer from Turkey</h3>
+<h3 align="center">A Back End Developer From Istanbul,Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recepbekirgurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="recepbekirgurbuz" /> </p>
 
