@@ -1,10 +1,10 @@
-## Projelerim
-- [E-Ticaret Sitesi](https://tncorganic.com/)
-- [Kurumsal Web Sitesi](http://dostudio.com.tr/)
-- [Fitness Calculator Sitesi](http://dostudio.com.tr/)
-  
 <h1 align="center">Hi 👋, I'm Recep Bekir Gürbüz</h1>
 <h3 align="center">A Back End Developer From Istanbul,Turkey</h3>
+
+### My Projects
+- [E-Commerce Site](https://tncorganic.com/)
+- [Corporate Website](http://dostudio.com.tr/)
+- [Fitness Calculator Site](http://dostudio.com.tr/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recepbekirgurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="recepbekirgurbuz" /> </p>
 
