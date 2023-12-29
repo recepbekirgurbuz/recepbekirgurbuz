@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/c/@rbgurbuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rbgurbuz" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/recepbekirgrbz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="recepbekirgrbz" height="30" width="40" /></a>
 <a href="https://discord.gg/rbgurbuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rbgurbuz" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/recepbekirgurbuz" target="blank"><img align="center" src="https://scontent.fsaw2-3.fna.fbcdn.net/v/t39.30808-1/327121998_1152232062324243_927531033589075017_n.png?stp=dst-png_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=596444&_nc_ohc=g0blQ_NTL2AAX9cQPRE&_nc_ht=scontent.fsaw2-3.fna&oh=00_AfAATBrNDViWRql1yr6NDdXevQDgskEVdJcG5fkBBqtv7w&oe=65944DEA" alt="rbgurbuz" height="30" /></a>
+<a href="https://www.buymeacoffee.com/recepbekirgurbuz" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/assets/logos/xmas-bmc-logo-white-1.5.png" alt="rbgurbuz" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
