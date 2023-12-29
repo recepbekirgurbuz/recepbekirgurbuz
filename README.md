@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋, I'm Recep Bekir Gürbüz</h1>
 <h3 align="center">A Back End Developer From Istanbul,Turkey</h3>
 
-### My Projects
-- [E-Commerce Site](https://tncorganic.com/)
-- [Corporate Website](http://dostudio.com.tr/)
-- [Fitness Calculator Site](http://dostudio.com.tr/)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=recepbekirgurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="recepbekirgurbuz" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=recepbekirgurbuz" alt="recepbekirgurbuz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/recepbekirgrbz" target="blank"><img src="https://img.shields.io/twitter/follow/recepbekirgrbz?logo=twitter&style=for-the-badge" alt="recepbekirgrbz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +21,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepbekirgurbuz&show_icons=true&locale=en&layout=compact" alt="recepbekirgurbuz" /></p>
 
+
+### My Projects
+- [E-Commerce Site](https://tncorganic.com/)
+- [Corporate Website](http://dostudio.com.tr/)
+- [Fitness Calculator Site](http://dostudio.com.tr/)
 
 
 
