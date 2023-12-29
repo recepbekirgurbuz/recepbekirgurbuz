@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/c/@rbgurbuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rbgurbuz" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/recepbekirgrbz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="recepbekirgrbz" height="30" width="40" /></a>
 <a href="https://discord.gg/rbgurbuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rbgurbuz" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/recepbekirgurbuz" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/assets/logos/xmas-bmc-logo-white-1.5.png" alt="rbgurbuz" height="30" /></a>
+<a href="https://www.buymeacoffee.com/recepbekirgurbuz" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/assets/logos/xmas-bmc-logo-1.5.png" alt="rbgurbuz" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
