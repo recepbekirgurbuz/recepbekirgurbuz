@@ -35,6 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepbekirgurbuz&show_icons=true&locale=en" alt="recepbekirgurbuz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=recepbekirgurbuz&" alt="recepbekirgurbuz" /></p>
 
 
