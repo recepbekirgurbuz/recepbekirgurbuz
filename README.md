@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=recepbekirgurbuz&theme=gruvbox&margin-w=15&no-frame=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=recepbekirgurbuz&theme=monokai&margin-w=15&no-frame=true" alt="Trophies" />
   </a>
 </p>
 
@@ -36,12 +36,12 @@
 
 <p align="center">
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=recepbekirgurbuz&show_icons=true&hide_border=true&theme=gruvbox&border_radius=0" 
+  src="https://github-readme-stats.vercel.app/api?username=recepbekirgurbuz&show_icons=true&hide_border=true&theme=monokai&border_radius=0" 
   alt="recepbekirgurbuz" 
   style="margin-right: 10px; height: 180px; width: auto; vertical-align: middle;" 
 />
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=recepbekirgurbuz&show_icons=true&hide_border=true&theme=gruvbox&layout=compact&border_radius=0" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=recepbekirgurbuz&show_icons=true&hide_border=true&theme=monokai&layout=compact&border_radius=0" 
   alt="recepbekirgurbuz" 
   style="height: 180px; width: auto; vertical-align: middle;" 
 />
