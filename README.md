@@ -7,12 +7,6 @@
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/recep-bekir-gurbuz-216392205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/recepbg9"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
-
 ---
 
 <h3 align="center">Languages & Tools</h3>
