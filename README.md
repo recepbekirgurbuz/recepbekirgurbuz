@@ -27,3 +27,4 @@
 - [Corporate Website](http://dostudio.com.tr/)
 - [Fitness Calculator Site](http://dostudio.com.tr/)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
